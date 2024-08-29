@@ -187,7 +187,7 @@
       </a>
     </td>
     <td align="center" width="150px">
-      <a href="https://github.com//kimjungkwang1" target="_blank">
+      <a href="https://github.com/kimjungkwang1" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/134460604?v=4" alt="김중광" />
       </a>
     </td>
@@ -204,32 +204,32 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/Jo-wonbin" target="_blank">
+      <a href="https://github.com/ChaCha3088" target="_blank">
         차명훈<br />팀장 (Back-end)
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/dudqo225" target="_blank">
+      <a href="https://github.com/yuyeoul" target="_blank">
         배유열<br />(Back-end)
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/person003333" target="_blank">
+      <a href="https://github.com/s-yeong" target="_blank">
         이상영<br />(Back-end)
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/JeongHwan-dev" target="_blank">
+      <a href="https://github.com/kimjungkwang1" target="_blank">
         김중광<br />(Front-end)
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/sojjeong" target="_blank">
+      <a href="https://github.com/seonghyeon-m" target="_blank">
         문성현<br />(Front-end)
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/limejin">
+      <a href="https://github.com/SiyeonYoo">
         유시연<br />(Front-end)
       </a>
     </td>
